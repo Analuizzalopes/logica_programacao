@@ -1,0 +1,2 @@
+- *Aula 1*
+- O professor Gustavo Guanabara ensinou como podemos compreender e aprender o que um programador faz e em que áreas ele atua,quais as vantagens de ser programador e a importância dos programadores para a atualidade/mercado de trabalho.
